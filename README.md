@@ -1,2 +1,2 @@
 # adaryn.vim
- A deep, sharp color scheme for Vim
+A deep, sharp color scheme for Vim
